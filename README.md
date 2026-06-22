@@ -1,8 +1,8 @@
 # hey, I'm nyx2k 👾
 I am a self-taught netwroking & sysadmin student from Italy.
 
-I Have build my own personal server  with a RaspberryPi5, hosting my webpage, my personal cloud.
-See find me section to find out more. 
+I Have build my own personal server  with a RaspberryPi5, hosting my webpage, my personal cloud. <br>
+*See find me section to find out more.* 
 
 ---
 
