@@ -8,7 +8,7 @@ I Have build my own personal server  with a RaspberryPi5, hosting my webpage, my
 
 ## what I'm working on
 
-- 🌐 **developing new skills** - learning everyday to level up
+- 🌐 **developing new skills** — learning everyday to level up
 - 🥧 **home server on Pi 5** — self-hosting my website, cloud and maintaining the system from remote
 - 🔧 **bash & python scripts** — to improve my linux knowledge and automate tasks for time management
 
