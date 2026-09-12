@@ -1,7 +1,7 @@
 # hey, I'm nyx2k 👾
 
 Self-taught in netwroking, Linux and Programming.
-Building towards becoming a SWE role, focused on C, Python and Bash, with Red hat and open source as the long-term.
+Building towards a SWE role, focused on C, Python and Bash, with Red hat and open source as the long-term.
 
 i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud infrastructure and networking monitoring station.
 
