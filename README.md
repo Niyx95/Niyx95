@@ -1,7 +1,10 @@
 # hey, I'm nyx2k 👾
-I am a self-taught netwroking & sysadmin student from Italy.
 
-I Have build my own personal server  with a RaspberryPi5, hosting my webpage, my personal cloud. <br>
+Self-taught in netwroking, Linux and Programming.
+Building towards becoming a SWE role, focused on C, Python and Bash, with Red hat and open source as the long-term.
+
+i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud infrastructure and networking monitoring station.
+
 *See find me section to find out more.* 
 
 ---
@@ -10,13 +13,16 @@ I Have build my own personal server  with a RaspberryPi5, hosting my webpage, my
 
 - 🌐 **developing new skills** — learning and challenging myself to do better everyday
 - 🥧 **home server on Pi 5** — self-hosting my website, cloud and maintaining the system from remote
-- 🔧 **bash & python scripts** — to improve my linux knowledge and automate tasks for time management
-
+- 🔐 **security fundamentals** - CTFs, exploit word via TryHackMe
+- 🔧 **bash & python scripts** — automating task and sharpening my Linux knowledge daily
+- 🐧 **C and low-lewel systems** - kernel internals, bootloaders
 ---
 
 ## tools & tech
 
-`Linux` `Bash` `Python` `Networking` `Raspberry Pi` `TryHackMe` `arduino`
+**Languages** - `C` `Bash` `Python`
+**Infrastucture** - `Linux` `Networking` `Raspberry Pi`
+**Security** - `TryHackMe` `arduino`  
 
 ---
 
