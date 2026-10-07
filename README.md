@@ -4,9 +4,8 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · niyx95</sub></p>
-<h1>Nikolas</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
+<h1>nyx2k</h1>
+<h2>Backend or full-stack engineer</h2>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/niyx95">GitHub</a> &nbsp;·&nbsp; <a href="https://nyx2k.sh">Website</a></p>
@@ -22,13 +21,11 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · C · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>9 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · C · HTML</p></td>
+<td width="33%" valign="top"><h3>Public</h3><p>9 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>90 contributions · 39 active days</p></td>
 </tr>
 </table>
-
-<p><sub>Building useful software and sharing the work in public.</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -106,7 +103,6 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/niyx95">GitHub</a><br /><a href="https://nyx2k.sh">Website</a></td>
 </tr>
 </table>
