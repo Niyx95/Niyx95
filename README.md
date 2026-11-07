@@ -30,3 +30,5 @@ i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud in
   ```bash
   curl nyx2k.sh
   ```
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
