@@ -31,4 +31,4 @@ i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud in
   curl nyx2k.sh
   ```
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="800" alt="My koi" />
