@@ -9,7 +9,7 @@ i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud in
 
 ---
 
-## what I'm working on
+## What I'm working on
 
 - 🌐 **developing new skills** — learning and challenging myself to do better everyday
 - 🥧 **home server on Pi 5** — self-hosting my website, cloud and maintaining the system from remote
@@ -18,7 +18,7 @@ i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud in
 - 🐧 **C and low-lewel systems** - kernel internals, bootloaders
 ---
 
-## tools & tech
+## Tools & tech
 
 **Languages** - `C` `Bash` `Python`
 **Infrastucture** - `Linux` `Networking` `Raspberry Pi`
@@ -26,9 +26,9 @@ i run my own homelab: a Raspberry Pi 5. Hosting my website, my personal cloud in
 
 ---
 
-## find me
+## Find me
   ```bash
   curl nyx2k.sh
   ```
-
-<img src="koi/koi.gif" width="400" alt="My koi" />
+## My koi fish
+<img src="koi/koi.gif" width="325" alt="My koi" />
